@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "Tes Run",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "fachrullahansyari.github.io",
+  "scripts": {
+    "postdeploy": "jalankan",
+    "pr-predestroy": "hancurkan"
+  },
+  "stack": "heroku-18"
+}
